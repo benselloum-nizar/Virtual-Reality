@@ -35,6 +35,7 @@ ExportedObj/
 *.csproj
 *.unityproj
 *.sln
+*.slnx
 *.suo
 *.tmp
 *.user
@@ -46,6 +47,10 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+.vsconfig
+
+# Generated reports / local deliverables
+/[Rr]apports/
 
 # Unity3D generated meta files
 *.pidb.meta
